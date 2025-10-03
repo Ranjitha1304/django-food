@@ -1,0 +1,8 @@
+Django
+mysqlclient
+Pillow
+django-crispy-forms
+djangorestframework
+python-decouple
+django-bootstrap5
+gunicorn
